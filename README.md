@@ -48,9 +48,3 @@ To install and run this project on your local machine, follow these steps:
 - **Design File**: [Figma Design File](https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design)
 - **API File**: [Postman API Documentation](https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27)
 
-## Contact
-
-For any questions or further information, feel free to contact:
-
-**Rampal Yadav**  
-Email: rampalyadav23082001@gmail.com
