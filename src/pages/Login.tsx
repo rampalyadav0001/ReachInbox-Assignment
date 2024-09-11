@@ -14,7 +14,11 @@ function Login() {
   }
   const handleGoogleLogin = () => {
     // Redirect to Google login URL
-    window.location.href = "https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=https://reach-inbox-ai-assignment.vercel.app/";
+    const redirectUrl = 'http://localhost:5173/';
+// You have to change only the url to your own url if this(// http://reach-inbox-assignment-fawn.vercel.app) is your url than change the url to this url.
+
+    window.location.href = `https://hiring.reachinbox.xyz/api/v1/auth/google-login?redirect_to=${redirectUrl}`;
+   
   };
 
   return (
